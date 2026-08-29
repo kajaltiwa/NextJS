@@ -1,9 +1,6 @@
 console.log("Hello World!");
 console.log("type Script Cnvert to java script");
-console.log("Kajal tiwari");
-console.log("goldiee tiwari");
-console.log("kaju");
-console.log('hii');
+
 /*
 to install typescript
 step1: Open CMD
