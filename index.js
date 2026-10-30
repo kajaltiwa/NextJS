@@ -41,11 +41,11 @@ and Press Y
 // console.log(a)
 // a = "kajal tiwari"
 // console.log(a)
-console.log(15 + 6);
+console.log(15 + 7);
 console.log(15 + "6");
 console.log("15" + "6");
 console.log("15" + "Hello World");
-console.log(15 - 6);
+console.log(15 - 5);
 // console.log("15"-"6")
 console.log();
 // console.log("15" - "Hello World")   //15Hello World
